@@ -1,0 +1,55 @@
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  form {
+    /* ... outras regras CSS ... */
+  }
+  
+/* style.css */
+
+/* ... outras regras CSS ... */
+
+form {
+    background-color: #f2f2f2;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  button {
+    background-color: #007bff;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 10px;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+
+  form {
+    width: 300px; /* Ajuste a largura conforme necessário */
+    height: auto; /* Ajuste a altura conforme necessário */
+    margin: 0 auto; /* Centraliza o formulário horizontalmente */
+  }
+  
+  input, textarea {
+    width: 100%; /* Faz os inputs ocuparem toda a largura do formulário */
+    box-sizing: border-box; /* Inclui o padding e border na largura total */
+
+    /* style.css */
+
+/* ... outras regras CSS ... */
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  form {
+    /* ... outras regras CSS ... */
+  }
+  }
